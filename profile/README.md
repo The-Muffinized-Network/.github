@@ -19,9 +19,9 @@ To join our network, follow these steps:
 
 Have questions, concerns, or feedback? Reach out to us via [Discord](https://discord.muffinized.net/), and our support team will assist you promptly.
 
-## Contributing
+## Suggestions and bug reports
 
-We welcome contributions and suggestions! If you have ideas for enhancing our network or want to report issues, please let us know through [GitHub](https://github.com/The-Muffinized-Network) or via [Discord](https://discord.muffinized.net/).
+We welcome suggestions! If you have ideas for enhancing our network or want to report issues, please let us know through [GitHub](https://github.com/The-Muffinized-Network) or via [Discord](https://discord.muffinized.net/).
 
 ## Acknowledgements
 
