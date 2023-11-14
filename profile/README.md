@@ -1,6 +1,6 @@
-# Minecraft PvP Network
+# The Muffinized Network
 
-Welcome to our Minecraft PvP Network! We offer a unique and unparalleled gaming experience, specializing in Bot Practice, Duels, and Training. Our goal is to provide players with an exceptional PvP environment that stands out from the rest.
+Welcome to our The Muffinized Network! We offer a unique and unparalleled gaming experience, specializing in Bot Practice, Duels, and Training. Our goal is to provide players with an exceptional PvP environment that stands out from the rest.
 
 ## Features
 
